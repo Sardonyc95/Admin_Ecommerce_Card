@@ -1,0 +1,26 @@
+.Ama-card{
+    margin-block:50px;
+    height:95vw;
+    width: 25vw;
+    margin:auto;
+    
+}
+
+.Ami{
+    box-shadow: lemonchiffon;
+    padding:10px;
+    margin-trim: 5px;
+}
+
+.Ami button{
+    width: 100%;
+    padding: 10px;
+    background: pink
+    
+}
+
+.Ami img{
+    height:200px;
+    width:100%;
+    
+}
