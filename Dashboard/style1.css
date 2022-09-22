@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Tahoma;
+}
+.page-layout{
+    background: #f9f9f9;
+    display: grid;
+}
+.page-layout {
+    grid-template-columns: 1fr 1fr;
+}
+.menu-section{
+    padding: 0px;
+    width: 100px;
+    height: 100px;
+    
+}
+.logo{
+    padding: 20px;
+    display: flex;
+    width: 100px;
+    align-items: center;
+    
+}
+.bar-menu{
+    background: #fff;
+    width: 300px;
+    top: 0;
+    left: 0;
+    color: gray;
+    font-size: 20px;
+    padding: 30px 0 0 30px;
+
+}
+.right-top-section{
+    padding: 50px;
+    position: right;
+    
+}
+.user-name{
+    background: none;
+    color: #444a53;
+    padding: 30px 30px 0 30px;
+    margin-top: 70px;
+}
+.box-layout{
+    padding-left: 10px;
+}
+.box-grid{
+    display: flex;
+
+}
+.right-bottom-section{
+    padding: fixed;
+    margin: 100px;
+}
+
