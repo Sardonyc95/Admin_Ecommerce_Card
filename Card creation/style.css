@@ -13,6 +13,9 @@
     padding: 20px;
 
 }
+.konga-site{
+    margin: auto;
+}
 .box-grid{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
@@ -20,11 +23,11 @@
 }
 .card{
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
-    padding:15px;
+    padding:20px;
     background-color:#fff;
 }
 .card > div, .title, .vendor-name{
-    padding:10px 0;
+    padding:5px 0;
 }
 .top-section{
     position:relative;
@@ -46,15 +49,15 @@
     font-size: 12px;
 }
 .favorite-wrapper{
-    padding:5px;
+    padding:10px;
     background-color:#E2E7EA;
-    border-radius: 100%;
+    border-radius: 100px;
     display:flex;
-    justify-content:center;
-    align-items: center;
+    justify-content:left;
+    align-items: right;
 }
 .favorite-wrapper:hover{
-    background-color:#F4A031;
+    background-color:#f0cb9c;
 }
 .fa-heart{
     color:#fff;
@@ -106,9 +109,6 @@
     font-weight: 700;
 
 }
-.review-count{
-
-}
 .review-count .fa-star{
     color:#F4A131;
     font-size: 12px;
@@ -119,9 +119,9 @@
 }
 
 .card a{
-    border:1px solid #EC4D7F;
+    border:1px solid #e499b1;
     text-decoration: none;
-    color:#EC4D7F;
+    color:#e7adc0;
     width: 100%;
     display:block;
     padding:7px;
@@ -134,8 +134,8 @@
    color:#fff;
 }
 
-/*@media screen and (max-width:1024px){
-    .main{
+@media screen and (max-width:1024px){
+    .box-main{
   
         grid-template-columns: 1fr 2fr;
         
@@ -148,10 +148,10 @@
 }
 
 @media screen and (max-width:768px){
-    .category{
+    .box-category{
         display:none;
     }
-    .main{
+    .box-main{
   
         grid-template-columns: 1fr;
         
@@ -164,7 +164,7 @@
 }
 
 @media screen and (max-width:450px){
-    .main{
+    .box-main{
         grid-template-columns: 1fr;
         padding:0;
         
