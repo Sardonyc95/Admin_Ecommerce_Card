@@ -1,9 +1,14 @@
 Screen_view
 
-![CHEESE!](image1/card1_desktop.png)
+![CHEESE!](image1/card1.png)
 
-![CHEESE!](image1/card2_desktop.png)
+![CHEESE!](image1/card2.png)
 
-![CHEESE!](image1/card2_1024px.png)
+![CHEESE!](image1/card3_1024px.png)
 
-![CHEESE!](image1/card2_768px.png)
+![CHEESE!](image1/card4_768px.png)
+
+![CHEESE!](image1/card5.png)
+
+![CHEESE!](image1/card6.png)
+
