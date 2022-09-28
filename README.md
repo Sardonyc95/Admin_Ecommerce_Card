@@ -1,4 +1,6 @@
-Screen_view
+ This is a webpage displaying an Ecommerce card_grid
+ 
+ Screen_view!!!
 
 ![CHEESE!](image1/card1.png)
 
