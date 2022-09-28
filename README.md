@@ -1,8 +1,9 @@
-Webpage_view for 1024px;
+Screen_view
 
-![CHEESE!](image1/card1_1024px.png)
+![CHEESE!](image1/card1_desktop.png)
 
+![CHEESE!](image1/card2_desktop.png)
 
-Webpage_view for 768px
+![CHEESE!](image1/card2_1024px.png)
 
 ![CHEESE!](image1/card2_768px.png)
